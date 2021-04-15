@@ -3,4 +3,9 @@ A demo project from Python fundamentals course to find some close Meterosites ba
 
 # Running
 This project needs Python and the requests package.
-`python find_meteors.py`
+
+pipenv needs to be installed first. Then:
+```
+pipenv install requests
+pipenv run python find_meteors.py
+```
