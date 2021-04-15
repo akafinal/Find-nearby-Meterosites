@@ -7,5 +7,5 @@ This project needs Python and the requests package.
 pipenv needs to be installed first. Then:
 ```
 pipenv install requests
-pipenv run python find_meteors.py
+pipenv run python meteors/find_meteors.py
 ```
